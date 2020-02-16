@@ -1,1 +1,1 @@
-# SQL exercise solutions from page www.sql-ex.ru
+# SQL queries solved. Exercises from page www.sql-ex.ru
